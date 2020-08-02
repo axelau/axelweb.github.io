@@ -76,3 +76,13 @@ html,body{
 .hero_banner{
     width: 100%;
 }
+
+.web_cover{
+    top: 0;
+    left: 0;
+}
+
+.content_part{
+    /* display: flex; */
+    background-color:rgb(42, 41, 71);
+}
